@@ -22,3 +22,12 @@ Where:
 - https://app.wisembly.com/m/keyword must be replaced by your own Wiz keyword
 - width is in pixel the desired iframe width (you could also use percents, like `width="100%"`)
 - height is in pixel the desired iframe height
+
+
+## API integration
+
+- Pros:
+  - full hand on customization
+  - only features you want (and implement)
+- Cons:
+  - need developpers to implement it
