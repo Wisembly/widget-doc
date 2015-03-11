@@ -14,7 +14,7 @@ There are two ways to embed Wisembly in a webpage or in an application: by simpl
 ### Code needed and example
 
 ```html
-<iframe src="https://app.wisembly.com/m/keyword#widget" width="300px" height="400px" border="0" marginheight="0" marginwidth="0" frameborder="0"></iframe>
+<iframe src="https://app.wisembly.com/w/keyword#widget" width="300px" height="400px" border="0" marginheight="0" marginwidth="0" frameborder="0"></iframe>
 ```
 
 Where:
