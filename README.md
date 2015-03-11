@@ -19,7 +19,7 @@ There are two ways to embed Wisembly in a webpage or in an application: by simpl
 
 Where:
 
-- https://app.wisembly.com/m/keyword#widget must be updated accordingly whith **your own Wiz keyword**  
+- https://app.wisembly.com/w/keyword#widget must be updated accordingly whith **your own Wiz keyword**  
   _eg: if your keyword is kickoff2014, then your url would be https://app.wisembly.com/w/kickoff2014#widget_
 - width is in pixel the desired iframe width (you could also use percents, like `width="100%"`)
 - height is in pixel the desired iframe height
